@@ -1,0 +1,5 @@
+Upload SQL sms.sql 
+Buka 127.0.0.1/smartonemore
+
+atau akses secara online lgsng
+http://197ea11e5915.ngrok.io/smartonemore/
